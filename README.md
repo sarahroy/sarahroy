@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> Hi, I'm Sarah 
-I'm a passionate full-stack software developer, currently focused on designing, developing, and deploying an AI-driven customer support platform. I'm always exploring new technologies to improve user experiences and optimize processes.
+I'm a passionate Full-Stack Software Developer, currently focused on designing, developing, and deploying an AI-driven customer support platform. I'm always exploring new technologies to improve user experiences and optimize processes.
 
 ### 💎 About Me
-  - 👩🏻‍💻 I am a Full-stack Software Developer.
+  - 👩🏻‍💻 I am a Full-Stack Software Developer.
   - 🎓 I graduated from Trent University with a degree in Computer Science.
   - 🎯 I'm currently working on building a new AI-driven customer support platform, leveraging LLMs, Langchain, and Langgraph to create efficient,               intelligent solutions.
   - 🚀 I’m passionate about exploring innovative technologies to enhance customer interactions through AI and automation.

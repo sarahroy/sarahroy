@@ -4,7 +4,7 @@ I'm a passionate full-stack software developer, currently focused on designing, 
 ### 💎 About Me
   - 👩🏻‍💻 I am a Full-stack Software Developer.
   - 🎓 I graduated from Trent University with a degree in Computer Science.
-  - 🌱 I'm currently working on building a new AI-driven customer support platform, leveraging LLMs, Langchain, and Langgraph to create efficient,               intelligent solutions.
+  - 🎯 I'm currently working on building a new AI-driven customer support platform, leveraging LLMs, Langchain, and Langgraph to create efficient,               intelligent solutions.
   - 🚀 I’m passionate about exploring innovative technologies to enhance customer interactions through AI and automation.
   - ⚡ Fun fact: When I'm not coding, you can find me playing the piano, guitar, or the flute.
 

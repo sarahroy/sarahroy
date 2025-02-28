@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> Hi, I'm Sarah 
-I'm a passionate Full-Stack Software Developer, currently focused on designing, developing, and deploying an AI-driven customer support platform. I'm always exploring new technologies to improve user experiences and optimize processes.
+I'm a passionate Full-Stack Software Developer with a passion for software development and a deep interest in creating innovative solutions that enhance user experiences and streamline business processes. I love working on innovative projects, solving complex problems, and creating impactful solutions that drive progress and improve user experiences.
 
 ### 💎 About Me
   - 👩🏻‍💻 I am a Full-Stack Software Developer.

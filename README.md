@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Software Developer with a passion for software devel
   - **CI/CD**: CI/CD Pipelines, GitHub Actions, Terraform, Jenkins
   - **Tools**: Git, Docker, Jira, Confluence, Selenium, Playwright, Kubernetes, Datadog
   
-### 📫 Connect With Me:
+### 📫 Connect With Me
   - [LinkedIn](https://www.linkedin.com/in/sarahannroy/) 
   - [Email](sarah2000roy@gmail.com)
 <!--

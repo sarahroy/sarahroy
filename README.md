@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> Hi, I'm Sarah 
 I'm a passionate Full-Stack Software Developer with a passion for software development and a deep interest in creating innovative solutions that enhance user experiences and streamline business processes. I love working on innovative projects, solving complex problems, and creating impactful solutions that drive progress and improve user experiences.
 
-### 💎 About Me
+### 💼 About Me
   - 👩🏻‍💻 I am a Full-Stack Software Developer.
   - 🎓 I graduated from Trent University with a degree in Computer Science.
   - 🎯 I'm currently working on building a new AI-driven customer support platform, leveraging LLMs, Langchain, and Langgraph to create efficient,               intelligent solutions.
@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Software Developer with a passion for software devel
   
 ### 📫 Connect With Me
   - [LinkedIn](https://www.linkedin.com/in/sarahannroy/) 
-  - [Email](sarah2000roy@gmail.com)
+  - [Email](mailto:sarah2000roy@gmail.com)
 <!--
 **sarahroy/sarahroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> Hi, I'm Sarah 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" /> Hi, I'm Sarah!
 I'm a passionate Full-Stack Software Developer with a passion for software development and a deep interest in creating innovative solutions that enhance user experiences and streamline business processes. I love working on innovative projects, solving complex problems, and creating impactful solutions that drive progress and improve user experiences.
 
 ### 💼 About Me

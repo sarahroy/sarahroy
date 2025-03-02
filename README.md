@@ -11,7 +11,9 @@ I'm a passionate Full-Stack Software Developer with a passion for software devel
 ### 🛠️ Languages & Tools
 
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="35" alt="java logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="35" alt="kotlin logo"  />
   <img width="12" />

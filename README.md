@@ -84,4 +84,4 @@ I'm a passionate Full-Stack Software Developer with a passion for software devel
   
 ### 📫 Connect With Me
   - [LinkedIn](https://www.linkedin.com/in/sarahannroy/) 
-  - [Email](mailto:sarah2000roy@gmail.com)
+  - [Discord](https://discord.com/users/notsarah10)

@@ -80,8 +80,12 @@ I'm a passionate Full-Stack Software Developer with a passion for software devel
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="35" alt="kubernetes logo"  />
 </div>
 
-###
+
   
 ### 📫 Connect With Me
-  - [LinkedIn](https://www.linkedin.com/in/sarahannroy/) 
-  - [Discord](https://discord.com/users/notsarah10)
+  <a href="https://www.linkedin.com/in/sarahannroy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a><br>
+  <a href="https://discord.com/users/notsarah10" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>

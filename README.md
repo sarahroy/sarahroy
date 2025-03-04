@@ -83,9 +83,9 @@ I'm a passionate Full-Stack Software Developer with a passion for software devel
 
   
 ### 📫 Connect With Me
-  <a href="https://www.linkedin.com/in/sarahannroy/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarahannroy/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a><br>
-  <a href="https://discord.com/users/notsarah10" target="_blank">
+  <a href="https://discord.com/users/notsarah10">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
